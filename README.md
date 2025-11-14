@@ -1,5 +1,5 @@
-#advicegroup-teste-tecnico
-Teste Técnico Advice Group: Automação em Python para baixar uma planilha xlsx, fazendo o download e depois preencher o formulário com todos os dados.
+
+Teste Técnico Advice Group: Automação em Python para baixar uma planilha xlsx e depois preencher o formulário com todos os dados.
 
 
 ## Estrutura do projeto
